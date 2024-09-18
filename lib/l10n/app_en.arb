@@ -1,0 +1,19 @@
+{
+  "@@locale": "en",
+  "appBarTitleTodayToon": "Today's toons",
+  "@appBarTitleTodayToon": {
+    "description": "main app bar title"
+  },
+  "appBarTitleFavoriteToon": "Favorite Toons",
+  "@appBarTitleFavoriteToon": {
+    "description": "favorite app bar title"
+  },
+  "favorites": "My Favorites",
+  "@favorites": {
+    "description": "my favorites"
+  },
+  "failToLoadData": "Failed to load data. Please try again later.",
+  "@failToLoadData": {
+    "description": "user message shown when data load failed"
+  }
+}

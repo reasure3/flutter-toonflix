@@ -1,0 +1,7 @@
+{
+  "@@locale": "ko",
+  "appBarTitleTodayToon": "오늘의 웹툰",
+  "appBarTitleFavoriteToon": "좋아하는 웹툰",
+  "favorites": "즐겨찾기",
+  "failToLoadData": "데이터를 불러오는 데 실패했습니다. 나중에 다시 시도해주세요."
+}
